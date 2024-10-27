@@ -1,0 +1,5 @@
+.container {
+    -fx-background-color: white;
+    -fx-padding: 10px;
+    -fx-spacing: 10px;
+}
